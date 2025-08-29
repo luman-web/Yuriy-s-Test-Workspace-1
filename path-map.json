@@ -1,0 +1,85 @@
+[
+  {
+    "filePath": "components/u-sample-component/index.json",
+    "savePath": "components/-OYpt0-QtyVmaKBAjAoS"
+  },
+  {
+    "filePath": "components/u-sample-component/compoenentCode.vue",
+    "savePath": "components/-OYpt0-QtyVmaKBAjAoS/code"
+  },
+  {
+    "filePath": "customCode/css/test1.css",
+    "savePath": "customCode/css/-OYkkEPzkSpcR0kRiZ0-/code",
+    "customCodeName": "test1"
+  },
+  {
+    "filePath": "tables/calculatedFieldRules.json",
+    "savePath": "models/calculatedFieldRules",
+    "isModel": true,
+    "modelKey": "calculatedFieldRules"
+  },
+  {
+    "filePath": "tables/orders.json",
+    "savePath": "models/orders",
+    "isModel": true,
+    "modelKey": "orders"
+  },
+  {
+    "filePath": "tables/pages.json",
+    "savePath": "models/pages",
+    "isModel": true,
+    "modelKey": "pages"
+  },
+  {
+    "filePath": "tables/products.json",
+    "savePath": "models/products",
+    "isModel": true,
+    "modelKey": "products"
+  },
+  {
+    "filePath": "tables/roles.json",
+    "savePath": "models/roles",
+    "isModel": true,
+    "modelKey": "roles"
+  },
+  {
+    "filePath": "tables/tables.json",
+    "savePath": "models/tables",
+    "isModel": true,
+    "modelKey": "tables"
+  },
+  {
+    "filePath": "pages/-Np4KcAFfter4TR0--Mf.json",
+    "savePath": "tabs/-Np4KcAFfter4TR0--Mf"
+  },
+  {
+    "filePath": "pages/-OBRmz6uGu5dR_7tqzO5.json",
+    "savePath": "tabs/-OBRmz6uGu5dR_7tqzO5"
+  },
+  {
+    "filePath": "pages/-ONjluq4ZpIhUk3r9Zx2.json",
+    "savePath": "tabs/-ONjluq4ZpIhUk3r9Zx2"
+  },
+  {
+    "filePath": "userWidgetsData/xuTSVRW20mS00HV0ANw51A2ts862.json",
+    "savePath": "userWidgetsData/xuTSVRW20mS00HV0ANw51A2ts862"
+  },
+  {
+    "filePath": "widgets/-Np4KnYx2ZpAA4Qrrgp7/widget.json",
+    "savePath": "widgets/-Np4KnYx2ZpAA4Qrrgp7"
+  },
+  {
+    "filePath": "widgets/-OBRmz9sNEf7wv_6TugP/widget.json",
+    "savePath": "widgets/-OBRmz9sNEf7wv_6TugP"
+  },
+  {
+    "filePath": "widgetsData/dataGrid/orders.json",
+    "savePath": "widgetsData/dataGrid/orders",
+    "conversion": "dataGrid"
+  },
+  {
+    "filePath": "widgetsData/dataGrid/products.json",
+    "savePath": "widgetsData/dataGrid/products",
+    "conversion": "dataGrid"
+  }
+]

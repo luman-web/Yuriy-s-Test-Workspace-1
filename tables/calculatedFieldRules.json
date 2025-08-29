@@ -1,0 +1,21 @@
+{
+  "-OLAvleuvvL_s301zHFm": {
+    "_id": 1,
+    "additionalFilter": "",
+    "calculateRelated": "",
+    "createdDate": 1741809457914,
+    "expression": "",
+    "groupBy": "order",
+    "lastEditDate": 1741810749878,
+    "lastEditedBy": "xuTSVRW20mS00HV0ANw51A2ts862",
+    "name": "control_3c2c0480-ff7c-11ef-886b-4ffcd90ef4e6",
+    "owner": "xuTSVRW20mS00HV0ANw51A2ts862",
+    "rowKey": "-OLAvleuvvL_s301zHFm",
+    "sourceField": "price",
+    "sourceTable": "products",
+    "targetField": "total",
+    "targetFieldType": "number",
+    "targetTable": "orders",
+    "type": "sum"
+  }
+}

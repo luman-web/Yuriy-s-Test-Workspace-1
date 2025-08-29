@@ -1,0 +1,14 @@
+{
+  "dependency": "dataGrid/orders",
+  "gsOptions": {
+    "h": 6,
+    "w": 24
+  },
+  "layout": "b-card",
+  "overflow": "height: auto",
+  "props": {
+    "gridId": "orders"
+  },
+  "tab": "-OBRmz6uGu5dR_7tqzO5",
+  "type": "DataGrid"
+}
