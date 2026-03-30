@@ -13,40 +13,9 @@
     "customCodeName": "test1"
   },
   {
-    "filePath": "tables/calculatedFieldRules.json",
-    "savePath": "models/calculatedFieldRules",
-    "isModel": true,
-    "modelKey": "calculatedFieldRules"
-  },
-  {
-    "filePath": "tables/orders.json",
-    "savePath": "models/orders",
-    "isModel": true,
-    "modelKey": "orders"
-  },
-  {
-    "filePath": "tables/pages.json",
-    "savePath": "models/pages",
-    "isModel": true,
-    "modelKey": "pages"
-  },
-  {
-    "filePath": "tables/products.json",
-    "savePath": "models/products",
-    "isModel": true,
-    "modelKey": "products"
-  },
-  {
-    "filePath": "tables/roles.json",
-    "savePath": "models/roles",
-    "isModel": true,
-    "modelKey": "roles"
-  },
-  {
-    "filePath": "tables/tables.json",
-    "savePath": "models/tables",
-    "isModel": true,
-    "modelKey": "tables"
+    "filePath": "customCode/js/test.js",
+    "savePath": "customCode/js/-OeWfMjwtqZ0fzUq6dYT/code",
+    "customCodeName": "test"
   },
   {
     "filePath": "pages/-Np4KcAFfter4TR0--Mf.json",
@@ -61,8 +30,8 @@
     "savePath": "tabs/-ONjluq4ZpIhUk3r9Zx2"
   },
   {
-    "filePath": "userWidgetsData/xuTSVRW20mS00HV0ANw51A2ts862.json",
-    "savePath": "userWidgetsData/xuTSVRW20mS00HV0ANw51A2ts862"
+    "filePath": "pages/-OfUTXVyj_9cPgBlLfbu.json",
+    "savePath": "tabs/-OfUTXVyj_9cPgBlLfbu"
   },
   {
     "filePath": "widgets/-Np4KnYx2ZpAA4Qrrgp7/widget.json",
@@ -73,6 +42,30 @@
     "savePath": "widgets/-OBRmz9sNEf7wv_6TugP"
   },
   {
+    "filePath": "widgets/-ONjluq4ZpButton001/widget.json",
+    "savePath": "widgets/-ONjluq4ZpButton001"
+  },
+  {
+    "filePath": "widgets/-ONjluq4ZpButton001/template.html",
+    "savePath": "widgets/-ONjluq4ZpButton001/template"
+  },
+  {
+    "filePath": "widgets/-OfUTXYxmEHghxNy70di/widget.json",
+    "savePath": "widgets/-OfUTXYxmEHghxNy70di"
+  },
+  {
+    "filePath": "widgetsComputed/runMyTestFunction.js",
+    "savePath": "widgetsComputed/runMyTestFunction"
+  },
+  {
+    "filePath": "widgetsComputed/sampleComputedFunction.js",
+    "savePath": "widgetsComputed/sampleComputedFunction"
+  },
+  {
+    "filePath": "widgetsComputed/testComputed.js",
+    "savePath": "widgetsComputed/testComputed"
+  },
+  {
     "filePath": "widgetsData/dataGrid/orders.json",
     "savePath": "widgetsData/dataGrid/orders",
     "conversion": "dataGrid"
@@ -81,5 +74,36 @@
     "filePath": "widgetsData/dataGrid/products.json",
     "savePath": "widgetsData/dataGrid/products",
     "conversion": "dataGrid"
+  },
+  {
+    "filePath": "widgetsData/dataGrid/scheduleTest.json",
+    "savePath": "widgetsData/dataGrid/scheduleTest",
+    "conversion": "dataGrid"
+  },
+  {
+    "filePath": "workflow/scriptTasks/Workflow Interval Schedule Sample/Script Task (node1764686092116).js",
+    "savePath": "workflow/-OfUTylw7h2FzK7QaZ_t",
+    "isWorkflowScriptTask": true,
+    "workflowId": "-OfUTylw7h2FzK7QaZ_t",
+    "workflowFile": "workflow/Workflow Interval Schedule Sample (-OfUTylw7h2FzK7QaZ_t).json",
+    "nodeId": "node1764686092116"
+  },
+  {
+    "filePath": "workflow/Workflow Interval Schedule Sample (-OfUTylw7h2FzK7QaZ_t).json",
+    "savePath": "workflow/-OfUTylw7h2FzK7QaZ_t",
+    "conversion": "workflow"
+  },
+  {
+    "filePath": "workflow/scriptTasks/Workflow Start At Schedule Sample/Script Task (node1764845350062).js",
+    "savePath": "workflow/-OfcxB4ayzc55iRUO6-Y",
+    "isWorkflowScriptTask": true,
+    "workflowId": "-OfcxB4ayzc55iRUO6-Y",
+    "workflowFile": "workflow/Workflow Start At Schedule Sample (-OfcxB4ayzc55iRUO6-Y).json",
+    "nodeId": "node1764845350062"
+  },
+  {
+    "filePath": "workflow/Workflow Start At Schedule Sample (-OfcxB4ayzc55iRUO6-Y).json",
+    "savePath": "workflow/-OfcxB4ayzc55iRUO6-Y",
+    "conversion": "workflow"
   }
 ]

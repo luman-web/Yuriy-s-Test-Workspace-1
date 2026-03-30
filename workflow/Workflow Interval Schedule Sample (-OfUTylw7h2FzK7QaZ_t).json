@@ -1,0 +1,96 @@
+{
+  "data": {
+    "metaData": {
+      "id": "-OfUTylw7h2FzK7QaZ_t",
+      "statusField": ""
+    },
+    "nodes": [
+      {
+        "id": "node1764686089181",
+        "x": 63,
+        "y": 103,
+        "name": "start-event",
+        "label": "Start Event",
+        "clazz": "startEvent",
+        "icon": {
+          "name": "flag",
+          "color": "hsl(154, 64%, 49%)"
+        },
+        "attachment": {},
+        "outcomes": [],
+        "customWidth": 250,
+        "customHeight": 60
+      },
+      {
+        "id": "node1764686092116",
+        "x": 62,
+        "y": 225,
+        "name": "script-task",
+        "label": "Script Task",
+        "clazz": "scriptTask",
+        "icon": {
+          "name": "terminal",
+          "color": "hsl(218, 54%, 20%)"
+        },
+        "attachment": {},
+        "outcomes": [],
+        "customWidth": 250,
+        "customHeight": 60
+      },
+      {
+        "id": "node1764686100995",
+        "x": 62,
+        "y": 370,
+        "name": "end-event",
+        "label": "End Event",
+        "clazz": "endEvent",
+        "icon": {
+          "name": "stop-circle",
+          "color": "hsl(348, 91%, 59%)"
+        },
+        "attachment": {},
+        "outcomes": [],
+        "customWidth": 250,
+        "customHeight": 60
+      }
+    ],
+    "edges": [
+      {
+        "id": "dc1e5504-8f29-4aa4-8d79-db5a903e7602",
+        "source": "node1764686089181",
+        "target": "node1764686092116",
+        "startSocket": "bottom",
+        "endSocket": "top",
+        "label": "Start Event",
+        "targetLabel": "Script Task",
+        "style": {}
+      },
+      {
+        "id": "3d1cde4a-47e6-40da-b1c1-d328a20e6038",
+        "source": "node1764686092116",
+        "target": "node1764686100995",
+        "startSocket": "bottom",
+        "endSocket": "top",
+        "label": "Script Task",
+        "targetLabel": "End Event",
+        "style": {}
+      }
+    ],
+    "transform": {
+      "x": -0.2216136430314748,
+      "y": 6.693320671449783,
+      "scale": 0.5328813331533607,
+      "isAnimated": false
+    },
+    "settings": {
+      "isWorkflowTransformationEnabled": true,
+      "isNodesAlignmentEnabled": true,
+      "workflowMode": "default",
+      "isCompact": false
+    }
+  },
+  "handleAsSingleScript": true,
+  "name": "Workflow Interval Schedule Sample",
+  "scheduled": true,
+  "schema": "{\"swagger\":\"2.0\",\"info\":{\"title\":\"Workflow Sample\"},\"host\":\"us-central1-tanglev2development.cloudfunctions.net\",\"basePath\":\"/webhook/undefined\",\"schemes\":[\"https\"],\"consumes\":[\"application/json\"],\"produces\":[\"application/json\"],\"paths\":{\"undefined\":{\"post\":{\"tags\":[],\"description\":\"\",\"produces\":[\"application/json\"],\"parameters\":[],\"responses\":{\"200\":{\"description\":\"response\",\"schema\":{\"type\":\"object\",\"properties\":{}}}}}}}}"
+}

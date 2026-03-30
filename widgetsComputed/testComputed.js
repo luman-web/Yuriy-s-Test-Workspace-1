@@ -1,0 +1,3 @@
+return () => {
+    alert(Math.random())
+}

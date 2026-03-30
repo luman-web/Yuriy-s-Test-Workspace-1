@@ -1,0 +1,95 @@
+{
+  "data": {
+    "metaData": {
+      "id": "-OfcxB4ayzc55iRUO6-Y",
+      "statusField": ""
+    },
+    "nodes": [
+      {
+        "id": "node1764845348705",
+        "x": 130,
+        "y": 131.14955357142858,
+        "name": "start-event",
+        "label": "Start Event",
+        "clazz": "startEvent",
+        "icon": {
+          "name": "flag",
+          "color": "hsl(154, 64%, 49%)"
+        },
+        "attachment": {},
+        "outcomes": [],
+        "customWidth": 250,
+        "customHeight": 60
+      },
+      {
+        "id": "node1764845350062",
+        "x": 130,
+        "y": 260,
+        "name": "script-task",
+        "label": "Script Task",
+        "clazz": "scriptTask",
+        "icon": {
+          "name": "terminal",
+          "color": "hsl(218, 54%, 20%)"
+        },
+        "attachment": {},
+        "outcomes": [],
+        "customWidth": 250,
+        "customHeight": 60
+      },
+      {
+        "id": "node1764845354146",
+        "x": 131,
+        "y": 402,
+        "name": "end-event",
+        "label": "End Event",
+        "clazz": "endEvent",
+        "icon": {
+          "name": "stop-circle",
+          "color": "hsl(348, 91%, 59%)"
+        },
+        "attachment": {},
+        "outcomes": [],
+        "customWidth": 250,
+        "customHeight": 60
+      }
+    ],
+    "edges": [
+      {
+        "id": "561895aa-8310-412e-bc35-9eaebff2b9e1",
+        "source": "node1764845348705",
+        "target": "node1764845350062",
+        "startSocket": "bottom",
+        "endSocket": "top",
+        "label": "Start Event",
+        "targetLabel": "Script Task",
+        "style": {}
+      },
+      {
+        "id": "135ec023-939c-4222-87f3-c0715cedfff0",
+        "source": "node1764845350062",
+        "target": "node1764845354146",
+        "startSocket": "bottom",
+        "endSocket": "top",
+        "label": "Script Task",
+        "targetLabel": "End Event",
+        "style": {}
+      }
+    ],
+    "transform": {
+      "x": -0.2216136430314748,
+      "y": 6.693320671449783,
+      "scale": 0.5328813331533607,
+      "isAnimated": false
+    },
+    "settings": {
+      "isWorkflowTransformationEnabled": true,
+      "isNodesAlignmentEnabled": true,
+      "workflowMode": "default",
+      "isCompact": false
+    }
+  },
+  "handleAsSingleScript": true,
+  "name": "Workflow Start At Schedule Sample",
+  "scheduled": true
+}

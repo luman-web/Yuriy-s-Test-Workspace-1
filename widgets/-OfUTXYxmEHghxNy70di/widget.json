@@ -1,0 +1,14 @@
+{
+  "dependency": "dataGrid/scheduleTest",
+  "gsOptions": {
+    "h": 6,
+    "w": 24
+  },
+  "layout": "b-card",
+  "overflow": "height: auto",
+  "props": {
+    "gridId": "scheduleTest"
+  },
+  "tab": "-OfUTXVyj_9cPgBlLfbu",
+  "type": "DataGrid"
+}
